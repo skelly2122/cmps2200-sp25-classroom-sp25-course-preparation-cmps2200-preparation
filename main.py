@@ -3,9 +3,10 @@ CMPS 2200  Preparation
 """
 
 def myfunction(input):
-	""" done. """
-	return input
-
+	if value == 6:
+		return -1
+	else return input
+	
 
 
 
